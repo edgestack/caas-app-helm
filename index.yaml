@@ -5,9 +5,9 @@ entries:
       category: Infrastructure
     apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-11-13T20:42:28.857513475-05:00"
+    created: "2022-11-14T08:02:08.036772794Z"
     description: A Helm chart example for CaaS app deployment
-    digest: b1e730b355a618ab2a8a2c217d8b89e85fb1cd8f281fe7313dc99b9cc76ae950
+    digest: c2b8f947e2147a5321e8a30b472ac9ce4ba1100b3283649a1be80276e61ac70c
     keywords:
     - mec
     - cluster api
@@ -21,4 +21,4 @@ entries:
     urls:
     - caas-app-1.0.0.tgz
     version: 1.0.0
-generated: "2022-11-13T20:42:28.856875152-05:00"
+generated: "2022-11-14T08:02:08.035831893Z"
