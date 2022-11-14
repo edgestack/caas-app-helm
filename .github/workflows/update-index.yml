@@ -2,7 +2,7 @@ name: Update Index
 
 on:
   push:
-    branches: [ stable-2.7 ]
+    branches: [ master ]
     paths:
       - '**.tgz'
 
