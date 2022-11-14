@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  caas-app:
+  - annotations:
+      category: Infrastructure
+    apiVersion: v1
+    appVersion: 1.0.0
+    created: "2022-11-13T20:42:28.857513475-05:00"
+    description: A Helm chart example for CaaS app deployment
+    digest: b1e730b355a618ab2a8a2c217d8b89e85fb1cd8f281fe7313dc99b9cc76ae950
+    keywords:
+    - mec
+    - cluster api
+    - provision
+    maintainers:
+    - email: gunine@sk.com
+      name: Jian Li
+    name: caas-app
+    sources:
+    - https://github.com/sonaproject
+    urls:
+    - caas-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-11-13T20:42:28.856875152-05:00"
